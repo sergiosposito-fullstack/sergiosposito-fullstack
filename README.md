@@ -1,17 +1,18 @@
-## 💜 Olá, meu nome é <strong>Sergio Sposito!</strong>
+## Olá, meu nome é <strong>Sergio Sposito!</strong>
 
 > Faça uma breve aprensentação sobre você e a sua área.
 
-🔭 Projetos
-CNN BRASIL
-<code><img height="32" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/cnn.png" alt="Javascript"/></code><
+## 🔭 Projetos
 
-CNN VIAGEM GASTRONOMIA
-VEJA
-QUATRO RODAS
-GUIA DO ESTUDANTE
-SUPERINTERESSANTE.
-----
+<code><img height="32" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/cnn.png" alt="CNN"/></code>
+<code><img height="32" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/cnnviagem.png" alt="CNN Viagem Gastronomia"/></code>
+<code><img height="32" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/veja.png" alt="Veja"/></code>
+<code><img height="32" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/quatro-rodas.png" alt="Quatro Rodas"/></code>
+<code><img height="32" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/super.png" alt="Superinteressante"/></code>
+<code><img height="32" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/guia.png" alt="Guia do Estudante"/></code>
+<code><img height="32" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/capricho.png" alt="Capricho"/></code>
+
+--------------
 
 ## 🚀 Minhas Skills
 
