@@ -1,16 +1,16 @@
 ## Olá, meu nome é <strong>Sergio Sposito!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Meu nome é Sergio, sou desenvolvedor full stack com mais de 8 anos de experiência, atuando na construção de sistemas, websites diversos e grandes portais de notícias.
 
-## 🔭 Projetos
+## 🔭 Veja alguns dos meus projetos
 
-<code><img height="150" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/cnn.png" alt="CNN"/></code>
-<code><img height="150" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/cnnviagem.png" alt="CNN Viagem Gastronomia"/></code>
-<code><img height="150" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/veja.png" alt="Veja"/></code>
-<code><img height="150" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/quatro-rodas.png" alt="Quatro Rodas"/></code>
-<code><img height="150" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/super.png" alt="Superinteressante"/></code>
-<code><img height="150" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/guia.png" alt="Guia do Estudante"/></code>
-<code><img height="150" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/capricho.png" alt="Capricho"/></code>
+<code><img height="125" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/cnn.png" alt="CNN"/></code>
+<code><img height="125" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/cnnviagem.png" alt="CNN Viagem Gastronomia"/></code>
+<code><img height="125" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/veja.png" alt="Veja"/></code>
+<code><img height="125" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/quatro-rodas.png" alt="Quatro Rodas"/></code>
+<code><img height="125" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/super.png" alt="Superinteressante"/></code>
+<code><img height="125" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/guia.png" alt="Guia do Estudante"/></code>
+<code><img height="125" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/capricho.png" alt="Capricho"/></code>
 
 --------------
 
@@ -27,7 +27,3 @@
 
 <!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code> -->
 <!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code> -->
----
-
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiosposito-fullstack&show_icons=true)
