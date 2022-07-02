@@ -4,7 +4,7 @@
 
 🔭 Projetos
 CNN BRASIL
-<code><img height="32" src="https://play-lh.googleusercontent.com/Wg0r8CsRa0vCDXmtUmt0fovLOYRfcTH-6p7T9iIOO67hgLO6x9OE2rr2_gWxZonXOBg" alt="Javascript"/></code><
+<code><img height="32" src="https://github.com/sergiosposito-fullstack/sergiosposito-fullstack/blob/main/cnn.png" alt="Javascript"/></code><
 
 CNN VIAGEM GASTRONOMIA
 VEJA
